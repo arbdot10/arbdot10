@@ -2,4 +2,4 @@
 - 👀 I’m interested in computational neuroscience, research and data analysis.
 - 🌱 I’m currently learning python and different subjects in clinical and computational neuroscience.
 - 💞️ I’m looking to collaborate on analysis and modeling based python projects in brain imaging, and scientific data.
-- 📫 Reach me at abhi.98.nahan@gmail.com
+- 📫 Reach me at 10dotarb@gmail.com or a.bhardwaj@rutgers.edu
